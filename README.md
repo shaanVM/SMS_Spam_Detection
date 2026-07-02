@@ -7,7 +7,7 @@ An end-to-end **Natural Language Processing (NLP)** project that classifies SMS 
 ## 🚀 Live Demo
 
 🔗 **Hugging Face:**  
-[HUGGINGFACE](https://huggingface.co/spaces/ShaanVM/sms-spam-detector)
+(https://huggingface.co/spaces/ShaanVM/sms-spam-detector)
 
 ---
 
